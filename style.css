@@ -20,11 +20,10 @@ h1 {
   font-size: 32px;
 }
 
-/*#mapwap {
+#mapwap {
 
   float: center;
   background-image: url("img/worldmap.jpg");
   padding: 4%;
-  text-align: right;
   opacity: .9;
-}*/
+}
